@@ -2,7 +2,7 @@
 
 
 ## About me
-I build things with code. I like clean solutions, learning new tools, and shipping small, useful projects.I'm just a developer who makes random tools and projects that I find interesting.
+I build things with code. I like clean solutions, learning new tools, and shipping small, useful projects, just a developer who makes random tools and projects that I find interesting.
 
 - 🔭 I’m currently working on: a personal project / open-source contribution
 - 🌱 I’m learning: C and OpenCV
