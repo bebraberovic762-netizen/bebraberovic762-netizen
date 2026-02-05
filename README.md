@@ -1,7 +1,6 @@
 # Hi there 👋 I'm bebraberovic762-netizen
 
-## My GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bebraberovic762-netizen)](https://github.com/anuraghazra/github-readme-stats)
+
 ## About me
 I build things with code. I like clean solutions, learning new tools, and shipping small, useful projects.I'm just a developer who makes random tools and projects that I find interesting.
 
