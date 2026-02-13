@@ -13,6 +13,7 @@ I build things with code. I like clean solutions, learning new tools, and shippi
 
 ## ⭐ Highlighted Projects
 - [zeroalloc-realtime-vision-pipeline](https://github.com/bebraberovic762-netizen/zeroalloc-realtime-vision-pipeline-and-tracking) — Object Detection & Tracking. (Python)
+- [My new beggining in C++](https://github.com/bebraberovic762-netizen/C-) — Beginner projects (C++)
 
 ## Coding Languages that i like or use regularly:
 [![Python Badge](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
