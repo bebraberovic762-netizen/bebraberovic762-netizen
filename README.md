@@ -6,7 +6,7 @@ I build things with code. I like clean solutions, learning new tools, and shippi
 
 - 🔭 I’m currently working on: a personal project / open-source contribution
 - 🌱 I’m learning: C and OpenCV
-- 💬 Ask me about: Python, AI Engineering, OpenCV
+- 💬 Ask me about: Python, AI, C++
 - 📫 How to reach me: Discord: leg4zy
 
 
