@@ -5,7 +5,7 @@
 I build things with code. I like clean solutions, learning new tools, and shipping small, useful projects, just a developer who makes random tools and projects that I find interesting.
 
 - 🔭 I’m currently working on: a personal project
-- 🌱 I’m learning: C++
+- 🌱 I’m learning: C++, Python
 - 💬 Ask me about: Python, AI, C++
 - 📫 How to reach me: Discord: leg4zy
 
